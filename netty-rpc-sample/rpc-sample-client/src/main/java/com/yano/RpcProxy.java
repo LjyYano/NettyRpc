@@ -8,9 +8,9 @@ import com.yano.common.http.Response;
 import net.sf.cglib.proxy.Proxy;
 
 /**
- * @author frank
- * @version 1.0
- * @date 2020-05-27 11:54
+ * @author yano
+ * GitHub 项目： https://github.com/LjyYano/Thinking_in_Java_MindMapping
+ * @date 2021-05-07
  */
 public class RpcProxy {
 

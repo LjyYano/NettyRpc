@@ -1,9 +1,9 @@
 package com.yano.service;
 
 /**
- * @author frank
- * @version 1.0
- * @date 2020-05-26 15:06
+ * @author yano
+ * GitHub 项目： https://github.com/LjyYano/Thinking_in_Java_MindMapping
+ * @date 2021-05-07
  */
 public interface HiService {
 

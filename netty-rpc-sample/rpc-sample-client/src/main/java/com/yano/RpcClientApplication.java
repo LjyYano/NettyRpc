@@ -4,9 +4,11 @@ import com.yano.service.HelloService;
 import com.yano.service.HiService;
 
 /**
- * @author frank
- * @version 1.0
- * @date 2020-05-27 11:53
+ * @author yano
+ * GitHub 项目： https://github.com/LjyYano/Thinking_in_Java_MindMapping
+ * <p>
+ * * GitHub 项目： https://github.com/LjyYano/Thinking_in_Java_MindMapping
+ * @date 2021-05-07
  */
 public class RpcClientApplication {
 

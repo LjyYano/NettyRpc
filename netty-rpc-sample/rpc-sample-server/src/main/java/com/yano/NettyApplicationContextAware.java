@@ -15,9 +15,9 @@ import com.yano.common.annotation.RpcServer;
 import com.yano.server.NettyServer;
 
 /**
- * @author frank
- * @version 1.0
- * @date 2020-05-26 15:15
+ * @author yano
+ * GitHub 项目： https://github.com/LjyYano/Thinking_in_Java_MindMapping
+ * @date 2021-05-07
  */
 @Component
 public class NettyApplicationContextAware implements ApplicationContextAware {

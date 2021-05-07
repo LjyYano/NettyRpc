@@ -8,6 +8,11 @@ import io.netty.buffer.ByteBuf;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.handler.codec.MessageToMessageDecoder;
 
+/**
+ * @author yano
+ * GitHub 项目： https://github.com/LjyYano/Thinking_in_Java_MindMapping
+ * @date 2021-05-07
+ */
 public class RpcDecoder extends MessageToMessageDecoder<ByteBuf> {
 
     private final Class<?> genericClass;
