@@ -1,7 +1,8 @@
 package com.yano.service;
 
 /**
- * @author liujiayu03 <liujiayu03@kuaishou.com>
+ * @author yano
+ * GitHub 项目： https://github.com/LjyYano/Thinking_in_Java_MindMapping
  * Created on 2021-05-07
  */
 public interface HelloService {

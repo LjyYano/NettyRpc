@@ -15,9 +15,8 @@ import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.ChannelInboundHandlerAdapter;
 
 /**
- * @author frank
- * @version 1.0
- * @date 2020-04-08 17:53
+ * @author yano
+ * GitHub 项目： https://github.com/LjyYano/Thinking_in_Java_MindMapping
  */
 public class RpcServerInboundHandler extends ChannelInboundHandlerAdapter {
 

@@ -9,9 +9,9 @@ import java.lang.annotation.Target;
 import org.springframework.stereotype.Component;
 
 /**
- * @author frank
- * @version 1.0
- * @date 2020-05-26 14:47
+ * @author yano
+ * GitHub 项目： https://github.com/LjyYano/Thinking_in_Java_MindMapping
+ * @date 2021-05-07
  */
 @Retention(RetentionPolicy.RUNTIME)
 @Documented

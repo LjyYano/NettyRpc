@@ -5,9 +5,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 
 /**
- * @author frank
- * @version 1.0
- * @date 2020-05-26 15:13
+ * @author yano
+ * GitHub 项目： https://github.com/LjyYano/Thinking_in_Java_MindMapping
+ * @date 2021-05-07
  */
 @SpringBootApplication
 public class RpcServerApplication {

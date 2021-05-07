@@ -19,9 +19,9 @@ import io.netty.channel.socket.SocketChannel;
 import io.netty.channel.socket.nio.NioSocketChannel;
 
 /**
- * @author frank
- * @version 1.0
- * @date 2020-05-09 15:33
+ * @author yano
+ * GitHub 项目： https://github.com/LjyYano/Thinking_in_Java_MindMapping
+ * @date 2021-05-07
  */
 public class NettyClient extends SimpleChannelInboundHandler<Response> {
 
